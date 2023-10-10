@@ -1,0 +1,1 @@
+export { useLucationPathName } from "./useLucationPathName";
